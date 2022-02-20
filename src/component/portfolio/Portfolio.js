@@ -1,5 +1,5 @@
 import React, { Component } from 'react';
-import ImgBox from "./boxes/imgBox.portfolio";
+import ImgBox from "./boxes/ImgBox";
 import data from '../../js/data.json'
 
 class Portfolio extends Component {

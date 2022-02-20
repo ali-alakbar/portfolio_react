@@ -1,5 +1,5 @@
 import React, { Component }  from 'react';
-import Box from "./box/box.work";
+import Box from "./box/WorkBox";
 import data from '../../js/data.json'
 class Work extends Component{
 

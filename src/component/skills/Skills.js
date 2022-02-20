@@ -1,6 +1,6 @@
 import React, { Component } from 'react';
 import data from '../../js/data.json'
-import Box from './skillsBoxes/box.skills'
+import Box from './skillsBoxes/SkillsBox'
 
 class Skills extends Component {
 

@@ -1,5 +1,5 @@
 import React from 'react';
-import Box from './contactBoxes/box.contact'
+import Box from './contactBoxes/ContactBox'
 
 const ContactSection = ()=>{
     return(

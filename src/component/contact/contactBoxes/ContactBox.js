@@ -1,5 +1,5 @@
 import React from 'react';
-import { Fragment } from 'react/cjs/react.development';
+import { Fragment } from 'react';
 
 const Box = ()=>{
     return(

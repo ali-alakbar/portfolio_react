@@ -1,4 +1,4 @@
-import SocialBox from "./box/SocialBox.social";
+import SocialBox from "./box/SocialBox";
 import React, { Component } from 'react';
 import data from '../../js/data.json'
 
